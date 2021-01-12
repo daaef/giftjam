@@ -1,0 +1,14 @@
+.container {
+  max-width: 90%;
+  width: 100%;
+  margin: 0 auto;
+  .title--holder {
+    display: inline-block;
+    background: radial-gradient(50% 800% at 50% 45.77%, #00FE38 30.21%, #1C3D92 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 2rem;
+    margin-top: 20px;
+  }
+}
