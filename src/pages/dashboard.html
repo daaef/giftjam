@@ -1,0 +1,38 @@
+---
+meta:
+author: Aef Badmus
+description: Some meta description
+keywords: Some, Meta, Keywords
+robots: index, follow
+title: Welcome
+layout: dash
+---
+
+<main>
+	<section class='container'>
+		{{> dashboardNav }}
+		<div class='uk-child-width-1-4@m stats uk-margin-large-top' uk-grid>
+			<div>
+				<h2>1 027 029</h2>
+				<p>All Participants</p>
+			</div>
+			<div>
+				<h2>10</h2>
+				<p>Participants Under You</p>
+			</div>
+			<div>
+				<h2>2 000 034 165</h2>
+				<p>Total earned in Your Circle in USD</p>
+			</div>
+			<div>
+				<h2>50 070 714 159</h2>
+				<p>Total earned So far on Platform in USD</p>
+			</div>
+		</div>
+		<div class='uk-margin-large-top uk-flex-between uk-flex uk-flex-wrap'>
+			{{> profileCard}}
+			{{> actionCard }}
+		</div>
+		{{> partners }}
+	</section>
+</main>

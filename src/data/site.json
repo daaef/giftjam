@@ -4,5 +4,79 @@
   "description":
     "A reserved <a href=\"http://jekyllrb.com\" target=\"_blank\">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href=\"https://twitter.com/mdo\" target=\"_blank\">@mdo</a>.",
   "author": "Creation Studio Limited",
-  "email": "thecreation@gmail.com"
+  "email": "thecreation@gmail.com",
+  "partners": [
+    {
+      "id": 50129,
+      "level": "Earth",
+      "type": "Uplink",
+      "tier": 2,
+      "cycles": 3,
+      "img": "assets/img/earth.svg",
+      "address": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2"
+    },
+    {
+      "id": null,
+      "level": "YOU",
+      "type": null,
+      "tier": null,
+      "cycles": null,
+      "img": null,
+      "address": null
+    },
+    {
+      "id": 50129,
+      "level": "Wind",
+      "type": "Invitee",
+      "tier": 2,
+      "cycles": 3,
+      "img": "assets/img/wind.svg",
+      "address": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2"
+    },
+    {
+      "id": 50129,
+      "level": "Wind",
+      "type": "Invitee",
+      "tier": 2,
+      "cycles": 3,
+      "img": "assets/img/wind.svg",
+      "address": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2"
+    },
+    {
+      "id": 50129,
+      "level": "Fire",
+      "type": "Invitee",
+      "tier": 2,
+      "cycles": 3,
+      "img": "assets/img/fire.svg",
+      "address": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2"
+    },
+    {
+      "id": 50129,
+      "level": "Fire",
+      "type": "Invitee",
+      "tier": 2,
+      "cycles": 3,
+      "img": "assets/img/fire.svg",
+      "address": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2"
+    },
+    {
+      "id": 50129,
+      "level": "Fire",
+      "type": "Invitee",
+      "tier": 2,
+      "cycles": 3,
+      "img": "assets/img/fire.svg",
+      "address": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2"
+    },
+    {
+      "id": 50129,
+      "level": "Fire",
+      "type": "Invitee",
+      "tier": 2,
+      "cycles": 3,
+      "img": "assets/img/fire.svg",
+      "address": "1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2"
+    }
+  ]
 }
