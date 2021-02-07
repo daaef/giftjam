@@ -10,6 +10,10 @@
 
 html {
   background: #000;
+  font-size: 16px;
+  @media (max-width: 805px) {
+    font-size: 13px;
+  }
 }
 
 button,
